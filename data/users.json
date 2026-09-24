@@ -1,0 +1,31 @@
+[
+  {
+    "id": "usr-prh9n7",
+    "name": "علی کاظمی",
+    "phone": "09301119055",
+    "email": "",
+    "nationalCode": "6650037079",
+    "username": "6650037079",
+    "password": "scrypt$aa0edbbf7b33e9a7efb81ffa2a1705aa$400bb64bb6923eab511bc1dd3e6bd2e616f19b3ac6b54d5cf437641a363cfbf752a83683bccee19baac7d95fa5f5f9baeae6b5a84092d5d967f3eeb44e6dac81",
+    "city": "تهران",
+    "province": "تهران",
+    "address": "",
+    "joinedDate": "۱۴۰۵/۰۶/۲۷",
+    "role": "customer",
+    "isActive": true,
+    "firstName": "علی",
+    "lastName": "کاظمی"
+  },
+  {
+    "id": "usr-admin-default",
+    "username": "admin",
+    "name": "مدیر سیستم",
+    "phone": "09000000001",
+    "password": "scrypt$bc8186549b48281538fd2dea8a242ca1$4cb1ebc1323ad0c9b970f93c4fa6637502e8b02df1a2691bfb2857e046cd7538c706d05ab2fbcd189eee3ef10d5c010fdd5f0c0c72768afa71fa71fa6217db68",
+    "role": "admin",
+    "updatedAt": "2026-09-16T16:45:41.044Z",
+    "isActive": true,
+    "firstName": "مدیر",
+    "lastName": "سیستم"
+  }
+]

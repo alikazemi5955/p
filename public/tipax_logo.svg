@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="100%" height="100%">
+  <rect width="300" height="300" rx="44" fill="#006738"/>
+  <g transform="translate(35, 102)">
+    <!-- T -->
+    <path d="M 6 0 L 45 0 L 40 14 L 29 14 L 20 48 L 5 48 L 14 14 L 1 14 Z" fill="#FFFFFF"/>
+    <!-- I -->
+    <path d="M 46 0 L 61 0 L 48 48 L 33 48 Z" fill="#FFFFFF"/>
+    <!-- P -->
+    <path d="M 63 0 L 98 0 C 110 0 116 6 113 16 C 110 26 102 31 90 31 L 78 31 L 73 48 L 58 48 Z M 79 14 L 88 14 C 93 14 96 12 97 8 C 98 4 96 2 91 2 L 82 2 Z" fill="#FFFFFF"/>
+    <!-- A -->
+    <path d="M 120 0 L 138 0 L 152 48 L 136 48 L 132 35 L 115 35 L 111 48 L 96 48 Z M 119 22 L 129 22 L 126 9 Z" fill="#FFFFFF"/>
+    <!-- X base and arrows -->
+    <path d="M 152 0 L 170 0 L 150 25 L 168 48 L 149 48 L 139 33 L 131 43 L 138 18 Z" fill="#FFFFFF"/>
+    <!-- Arrow 1 -->
+    <path d="M 172 0 L 189 0 L 175 24 L 189 48 L 172 48 L 158 24 Z" fill="#FFFFFF"/>
+    <!-- Arrow 2 -->
+    <path d="M 193 0 L 210 0 L 196 24 L 210 48 L 193 48 L 179 24 Z" fill="#FFFFFF"/>
+    <!-- Arrow 3 -->
+    <path d="M 214 0 L 231 0 L 217 24 L 231 48 L 214 48 L 200 24 Z" fill="#FFFFFF"/>
+  </g>
+  <text x="150" y="196" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="800" letter-spacing="1.5">Courier Service</text>
+</svg>

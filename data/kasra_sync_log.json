@@ -1,0 +1,64 @@
+{
+  "status": "SUCCESS",
+  "lastRunAt": "2026-09-24T10:18:44.790Z",
+  "lastSuccessAt": "2026-09-24T10:18:44.790Z",
+  "totalCatalogCount": 247,
+  "fetchedItemsCount": 247,
+  "syncedProductsCount": 247,
+  "totalProductsCount": 247,
+  "totalVariantsCount": 463,
+  "inStockCount": 157,
+  "outOfStockCount": 90,
+  "markupPercentage": 5,
+  "errorCount": 0,
+  "errorMessage": null,
+  "source": "https://plus.kasrapars.ir",
+  "intervalSeconds": 30,
+  "sampleItems": [
+    {
+      "id": "kasra-5885",
+      "name": "گوشی موبايل Nemo مدل N16 4G ظرفیت 128 گیگابایت رم 4 گیگابایت",
+      "price": 26229000,
+      "sourcePrice": 24980000,
+      "inStock": true,
+      "slug": "nemo-n16-4g-1284gb",
+      "image": "https://cdn.kasratel.ir/Product/5885/0bc09ff0805ba757c2fa9cef7024deaf.webp"
+    },
+    {
+      "id": "kasra-5884",
+      "name": "گوشی موبايل Nemo مدل N36 4G ظرفیت 128 گیگابایت رم 6 گیگابایت",
+      "price": 28329000,
+      "sourcePrice": 26980000,
+      "inStock": true,
+      "slug": "nemo-n36-4g-1286gb",
+      "image": "https://cdn.kasratel.ir/Product/5884/879c18b445a86a78ff69bbcd047d5393.webp"
+    },
+    {
+      "id": "kasra-5877",
+      "name": "هندزفری بلوتوثی انکر مدل SoundCore V20i",
+      "price": 4093950,
+      "sourcePrice": 3899000,
+      "inStock": true,
+      "slug": "anker-soundcore-v20i-open-ear-clip-wireless-earbuds",
+      "image": "https://cdn.kasratel.ir/Product/5877/a2181b616e9f53e35edec1623edc34e3.webp"
+    },
+    {
+      "id": "kasra-5874",
+      "name": "گوشی موبايل الویا مدل E1 4G ظرفیت 256 گیگابایت رم 8 گیگابایت",
+      "price": 36486450,
+      "sourcePrice": 34749000,
+      "inStock": true,
+      "slug": "elevia-e1-4g-2568gb",
+      "image": "https://cdn.kasratel.ir/Product/5874/e951efac58c95b529144c50c2cc21f08.png"
+    },
+    {
+      "id": "kasra-5855",
+      "name": "هندزفری بلوتوثی انکر مدل SoundCore V40i",
+      "price": 7234500,
+      "sourcePrice": 6890000,
+      "inStock": true,
+      "slug": "anker-soundcore-v40i-open-ear-clip-wireless-earbuds",
+      "image": "https://cdn.kasratel.ir/Product/5855/1d6bdbe2605531cec41894f30f3e4d35.jpg"
+    }
+  ]
+}
